@@ -1,0 +1,43 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Earthworm Jim 2.gen",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Road Rash 3.gen",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic_the_Hedgehog_2_(JUE)_[!].smd",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sonic The Hedgehog 3.gen",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
